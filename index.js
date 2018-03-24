@@ -23,7 +23,7 @@ function currentLine(katzDeli){
     line.push(` ` + [i+1] +`.` + katzDeli[i]);
   }
   
-  if (line > 0){
+  if (line  0){
     return(`The line is currently:` + line);
   }
   else {
