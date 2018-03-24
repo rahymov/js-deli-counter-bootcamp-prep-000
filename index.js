@@ -23,6 +23,6 @@ function currentLine(line){
     return "Who is in the line?";
   }
   else {
-    return The line is currently empty.
+    return "The line is currently empty.";
   }
 }
