@@ -19,7 +19,7 @@ function nowServing(katzDeli){
 }
 var line = [];
 function currentLine(katzDeli){
-  for()
+  for(var i=0; i < katzDeli.length; )
   
   if (line > 0){
     return "Who is in the line?";
