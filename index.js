@@ -24,7 +24,7 @@ function currentLine(katzDeli){
   }
   
   if (line > 0){
-    return "Who is in the line?";
+    return()
   }
   else {
     return "The line is currently empty.";
