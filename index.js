@@ -20,7 +20,7 @@ function nowServing(katzDeli){
 var line = [];
 function currentLine(katzDeli){
   for(var i=0; i < katzDeli.length; i++){
-    return
+    line.push
   }
   
   if (line > 0){
