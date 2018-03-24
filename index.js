@@ -17,7 +17,7 @@ function nowServing(katzDeli){
     return(`Currently serving ${katzDeli.shift()}.`);
   }
 }
-
+var line = [];
 function currentLine(line){
   if (line > 0){
     return "Who is in the line?";
