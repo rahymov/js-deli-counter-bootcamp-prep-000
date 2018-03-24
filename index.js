@@ -28,6 +28,6 @@ function currentLine(katzDeli){
     
   }
   else {
-   return(`The line is currently:` + line); ;
+   return(`The line is currently:` + line) ;
   }
 }
